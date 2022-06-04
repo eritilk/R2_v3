@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">R2_v3</string>
+    <string name="next_button">NEXT</string>
+    <string name="back_button">BACK</string>
+    <string name="admin_view">ADMIN VIEW</string>
+    <string name="home_team">Home Team</string>
+    <string name="visiting_team">Visiting Team</string>
+    <string name="team_players">Team Players</string>
+    <string name="bench_players">Bench Players</string>
+</resources>
