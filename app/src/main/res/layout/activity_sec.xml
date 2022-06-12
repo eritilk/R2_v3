@@ -36,7 +36,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
-                android:text="@string/home_team"
+                android:text="@string/visiting_team"
                 android:gravity="center"
                 android:textColor="#FFFFFF"
                 android:background="@color/black"/>
@@ -44,7 +44,7 @@
 
 
             <Spinner
-                android:id="@+id/home_team_spinner"
+                android:id="@+id/visiting_team_spinner"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 
@@ -56,27 +56,27 @@
                 android:textColor="#FFFFFF"
                 android:background="@color/black"/>
             <Spinner
-                android:id="@+id/h_player_1"
+                android:id="@+id/v_player_1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_2"
+                android:id="@+id/v_player_2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_3"
+                android:id="@+id/v_player_3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_4"
+                android:id="@+id/v_player_4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_5"
+                android:id="@+id/v_player_5"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
@@ -89,37 +89,37 @@
                 android:background="@color/black"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_6"
+                android:id="@+id/v_player_6"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_7"
+                android:id="@+id/v_player_7"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_8"
+                android:id="@+id/v_player_8"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_9"
+                android:id="@+id/v_player_9"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"/>
             <Spinner
-                android:id="@+id/h_player_10"
+                android:id="@+id/v_player_10"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"
                 android:layout_marginBottom="20dp"/>
             <Button
-                android:id="@+id/next_button"
+                android:id="@+id/back_button"
                 android:layout_width="100dp"
                 android:layout_height="48dp"
                 android:background="@drawable/roundstyle"
-                android:text="@string/next_button"
+                android:text="@string/back_button"
                 android:layout_marginTop="3dp"
                 app:backgroundTint="#3F51B5"
                 android:layout_gravity="center_vertical|center_horizontal"/>

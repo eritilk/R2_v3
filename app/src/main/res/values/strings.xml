@@ -7,4 +7,33 @@
     <string name="visiting_team">Visiting Team</string>
     <string name="team_players">Team Players</string>
     <string name="bench_players">Bench Players</string>
+    <string-array name="players_aek">
+        <item>Select player</item>
+        <item>LANGFORD</item>
+        <item>PAPPS</item>
+        <item>ANGOLA</item>
+        <item>PETROPOULOS</item>
+        <item>KARLIS</item>
+        <item>KARLIS</item>
+        <item>KONIARIS</item>
+        <item>GOGOLOS</item>
+        <item>MAVROIDIS</item>
+        <item>PAPPS</item>
+        <item>MOUZOURAKIS</item>
+    </string-array>
+    <string-array name="players_paok">
+        <item>Select player</item>
+        <item>RIVERS</item>
+        <item>LEE</item>
+        <item>GREENE</item>
+        <item>PETROPOULOS</item>
+        <item>CHRISTODOULOU</item>
+        <item>LOVE</item>
+        <item>KAMARIANOS</item>
+        <item>DILEO</item>
+        <item>MANTZARIS</item>
+        <item>ROUMOGLOU</item>
+        <item>KAMPERIDIS</item>
+    </string-array>
+
 </resources>
